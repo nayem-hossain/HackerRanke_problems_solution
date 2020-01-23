@@ -18,10 +18,12 @@ int main() {
         vect.push_back(input);
     }
     /*OR,
+   
     int m;
     cin>>m;
+    vector<int>vect(m);
     for (int i = 0; i < m; i++){
-       cin >> v[i];
+       cin >> vect[i];
     }
     */
     int Queries,Q_value;
